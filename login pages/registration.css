@@ -63,4 +63,11 @@
       width: 100%;
     }
   }
+  .Form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    background-color: #67c4e6;
+  }
   
