@@ -1,7 +1,7 @@
 # Login Page for a Website
 
-You can use this login page on your website by using the following command:
- `git clone "https://github.com/gxaurab/Login-page.git"`
+You can use this login page on your website/app by using the following command:
+ -`git clone "https://github.com/gxaurab/Login-page.git"`
 
 ## Prerequisites
 
