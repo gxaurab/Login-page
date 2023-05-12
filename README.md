@@ -1,6 +1,7 @@
 # Login Page for a Website
 
-You can use this login page on your website by using the following command: `git clone "https://github.com/gxaurab/Login-page.git"`
+You can use this login page on your website by using the following command:
+ `git clone "https://github.com/gxaurab/Login-page.git"`
 
 ## Prerequisites
 
@@ -15,6 +16,9 @@ Before you can use this login page, you will need to have the following software
 ### Image Generation
 
 I have used the Unsplash API to generate random images that will appear on the login page's home screen.
+ Get your own API key by creating an account at 
+ [Unsplash API](https://unsplash.com/developers).
+
 
 ### Registration
 
